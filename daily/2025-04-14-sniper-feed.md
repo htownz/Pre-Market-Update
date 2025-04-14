@@ -1,8 +1,23 @@
 # 📆 Daily Sniper Intel Feed
 
-**Date:** 2025-04-14  
-**Prepared for:** OG Strategy Traders (ICT + EMA Cloud)  
-**Delivery Time:** 6:00 AM CT
+<div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; border: 1px solid #dee2e6;">
+
+**📅 Date:** 2025-04-14  
+**👥 Prepared for:** OG Strategy Traders (ICT + EMA Cloud)  
+**⏰ Delivery Time:** 6:00 AM CT
+
+</div>
+
+---
+
+## 💼 Current Investments Dashboard
+
+| Asset | Entry Price | Current Price | P/L % | Status |
+|-------|------------|---------------|-------|--------|
+| NVDA  | $880.20    | $877.35      | -0.32%| HOLD   |
+| AMD   | $158.90    | $162.75      | +2.42%| HOLD   |
+| META  | $505.25    | $515.50      | +2.03%| HOLD   |
+| TSLA  | $172.80    | $168.35      | -2.57%| WATCH  |
 
 ---
 
